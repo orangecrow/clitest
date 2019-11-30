@@ -1,4 +1,8 @@
 another one test file for branches
 added in master
 added in nonmaster2
+<<<<<<< HEAD
 added on pc
+=======
+added on git webpage
+>>>>>>> remotes/origin/nonmaster2
