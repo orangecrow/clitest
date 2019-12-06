@@ -1,3 +1,7 @@
 change in file 1
 no commit of branches
+<<<<<<< HEAD
 a change after reverting
+=======
+a change before reverting
+>>>>>>> e967985eada01e0f20df86280bc2a0bda3e74af8
